@@ -1,0 +1,33 @@
+body {
+    background-color: #FEFCF3;
+}
+
+hr {
+    /*background-color: #F0DBDB;*/
+    
+    /*ver 1*/
+    /* 
+    border-bottom: 0.2cm #F0DBDB;
+    border-style: none;
+    border-bottom-style: dotted;
+    width: 10%;
+    */
+
+    /*ver 2*/
+    border-color: #F0DBDB;
+    border-style: dotted none none;
+    border-width: 7px;
+    width: 10%;
+}
+
+h1 {
+    color: #DBA39A;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h3 {
+    color: #DBA39A;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
